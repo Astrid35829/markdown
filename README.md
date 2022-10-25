@@ -11,6 +11,7 @@ Porties: 4 personen
 ![Kip Tandoori](kiptandoori.jpg)
 
 **Ingredienten**
+
 Kip tandoori Marinade
 - 800 gram kippendijen
 - 100 ml yoghurt
