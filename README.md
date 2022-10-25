@@ -1,2 +1,2 @@
 # markdown
-voorbeel les markdown skills
+voorbeeld les markdown skills
